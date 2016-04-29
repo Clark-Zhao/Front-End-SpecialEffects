@@ -1,0 +1,15 @@
+html,body,div,img{
+	margin: 0;
+	padding: 0;
+}
+#slidingDoorsContainer{
+	border: 1px solid #ccc;
+	position: relative;
+	overflow: hidden;
+}
+#slidingDoorsContainer img{
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
