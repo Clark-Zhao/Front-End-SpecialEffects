@@ -14,5 +14,10 @@
 			<td>SlidingDoors</td>
 			<td><a href="http://zhaoyuxiang.cn/Front-End-SpecialEffects/SlidingDoors/index.html">http://zhaoyuxiang.cn/Front-End-SpecialEffects/SlidingDoors/index.html</a></td>
 		</tr>
+		<tr>
+			<td>选项卡菜单</td>
+			<td>TabMenu</td>
+			<td>移入(mouseover)<a href="http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-onmouseover.html">http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-onmouseove.html</a><br />点击(click)<a href="http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-onclick.html">http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-onclick.html</a><br />延迟(delay)<a href="http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-delay.html">http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-delay.html</a><br />自动(auto)<a href="http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-auto.html">http://zhaoyuxiang.cn/Front-End-SpecialEffects/TabMenu/tabMenu-auto.html</a></td>
+		</tr>
 	</tbody>
 </table>
